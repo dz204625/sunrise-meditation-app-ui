@@ -22,5 +22,6 @@ A registered User has all the perks of a guest in addition to being able to set 
 
 ## NOTES
 Built by  Viji, Sree, Dan, Tina, and Luc
+
 Check the group link here: https://github.com/LaunchCodeLiftoffProjects/sunrise-meditation-ui
 
